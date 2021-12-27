@@ -32,6 +32,12 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jemoji
+  - jekyll-analytics
+
+jekyll-analytics:
+  Plausible:
+      domain: 'edo3.io'   # The domain configured in plausible
+      source: 'https://plausible.io/js/plausible.js' # The source of the javascript
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -45,7 +51,7 @@ plugins:
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
-#   - Gemfile
+#https://plausible.io/js/plausible.js   - Gemfile
 #   - Gemfile.lock
 #   - node_modules/
 #   - vendor/bundle/
