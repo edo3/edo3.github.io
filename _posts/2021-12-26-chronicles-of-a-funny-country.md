@@ -1,6 +1,6 @@
 ---
 title: 'Chronicles of a funny country'
-description: 'My experience working for a US company, 6 months in.'
+description: 'Rants about home after working for a US company, 6 months in.'
 date: 2021-12-26
 ---
 
