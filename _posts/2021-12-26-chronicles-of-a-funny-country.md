@@ -15,7 +15,7 @@ at least partially new to say on this subject, being that I haven't found, surpr
 # On the why
 ### or how I hate cardboard ideas
 
-Italy is not a rich country as it once was, and the outcome looks worst and worst every passing day, but I won't delve in the obvious economic upside of leaving, instead I will discuss the
+Italy is not a rich country as it once was, and the outcome looks worse and worse every passing day, but I won't delve in the obvious economic upside of leaving, instead I will discuss the
 main feeling that brought me to my decision.
 
 I feel a deep and intense frustration every time my mind darts back to the experiences I had as a wanna-be enterpreneur in my home country.
@@ -40,9 +40,9 @@ This might seem confusing but let me give an example: **startup**
 
 ## Startup by decree
 
-We all know what "**startup**", broadly speaking, a small company, preferably VC funded, just started and pursuing a new idea, whether it be a business idea or what have you.
+We all know what "**startup**", broadly speaking, means: a small company, preferably VC funded, just started and pursuing a new idea, whether it be a business idea or what have you.
 
-Not it Italy it does not mean that. The Italian people (and I won't say government/state because it's too easy of a scapegoat) have deemed necessary completely redefining the word and give it legal meaning.
+Not in Italy it does not. The Italian people (and I won't say government/state because it's too easy of a scapegoat) have deemed necessary completely redefining the word and give it legal meaning.
 
 An """**Innovative Startup**""" (whatever it may or may not mean) is defined, BY LAW, as a company that:
 
@@ -95,9 +95,9 @@ And this is fine, because people in nice suits that have all the certifications 
 And people nod and agree and everyone shakes hands and leaves happy, and then are surprised seeing that a French/German/British/American company in the last 3 months has
 tripled our market share and has better tech and better funding and better everything.
 
-So what has my, for now brief, experience abroad taught me in this regard? 
+So what has my, still brief, experience abroad taught me in this regard? 
 
-It's **your** fault, Italian reading this, not the *economy's* nor the *government's*.
+It's **your** fault, italian reading this, not the *economy's* nor the *government's*.
 
 This is not how things are done.
 
@@ -119,8 +119,8 @@ If you are not an Italian reader you probably won't connect with my meltdown her
 I really would love for my people to get out this cultural empasse that has, in my opinion, destroyed my country in the last few decades (along with other factors), but I see no way out.
 Italian people want things to be this way, and they push for it. They prefer to live in a fake world defined by decree and that goes nowhere instead of just doing their job and seeing if it works.
 
-And maybe I have been luckly in my abroad experience for the time being, this is possible and I consider myself someone who can easily admit wrong judgment, we'll see.
+And maybe I have been lucky in my abroad experience for the time being, this is possible and I consider myself someone who can easily admit wrong judgment, we'll see.
 
-But as long as this persists, if I had even a single dime to invest, I would not put it in my country, if not as a token of love, like a mother congratulates the drawing of an infant child.
+But as long as this persists, if I had even a single dime to invest, I would not put it in my country, if not as a token of love, like a mother who congratulates the drawing of an infant child.
 
 {% include sharebar.html %}
