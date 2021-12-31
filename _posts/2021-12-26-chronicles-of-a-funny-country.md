@@ -122,3 +122,5 @@ Italian people want things to be this way, and they push for it. They prefer to 
 And maybe I have been luckly in my abroad experience for the time being, this is possible and I consider myself someone who can easily admit wrong judgment, we'll see.
 
 But as long as this persists, if I had even a single dime to invest, I would not put it in my country, if not as a token of love, like a mother congratulates the drawing of an infant child.
+
+{% include sharebar.html %}
