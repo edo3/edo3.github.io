@@ -5,6 +5,7 @@ layout: default
 I know how to use computers to a decent extent.
 # The resumee
 
+- Non-founder  @ [Palantir](https://palantir.com)
 - Non-founder  @ [unit21](https://unit21.com)
 - Co-founder @ [FlowPay](https://flowpay.it)
 - Co-founder @ [BDF](https://bancodigitale.com)
